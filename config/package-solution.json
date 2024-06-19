@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "reactjs-client-side-solution",
+    "id": "14f73c3f-1442-462b-a207-6ef2d4107196",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/reactjs.sppkg"
+  }
+}
